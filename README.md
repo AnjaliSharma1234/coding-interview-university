@@ -12,6 +12,30 @@
 >
 > *Best of luck to you!*
 
+## Interview Process & General Interview Prep
+
+- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [ ] How to Get a Job at the Big 4:
+    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [ ] Cracking The Coding Interview Set 1:
+    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [ ] Cracking the Facebook Coding Interview
+    - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
+    - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
+- [ ] Prep Course:
+    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+        - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
+    - [ ] [Python for Data Structures, Algorithms, and Interviews (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+        - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+    - [ ] [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
+        - A free Python centric data structures and algorithms course.
+    - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
+        - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
+
 ## What is it?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
@@ -159,74 +183,11 @@ thousands of associative arrays, but I've never created data structures from scr
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using Github's special markdown flavor, including tasks lists to check progress.
-
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
-
-
-    Fork a branch and follow the commands below
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-`git fetch --all`
-
-    Mark all boxes with X after you completed your changes
-
-`git add .`
-
-`git commit -m "Marked x"`
-
-`git rebase jwasham/master`
-
-`git push --force`
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
-## About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
-
-    I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
-    I like using university lectures.
-
-
-## Interview Process & General Interview Prep
-
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-- [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] Cracking the Facebook Coding Interview
-    - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
-    - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
-- [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
-        - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
-        - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
-    - [ ] [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
-        - A free Python centric data structures and algorithms course.
-    - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
-        - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
 
 ## Pick One Language for the Interview
 
