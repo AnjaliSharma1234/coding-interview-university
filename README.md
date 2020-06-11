@@ -26,7 +26,7 @@
 - [ ] Cracking the Facebook Coding Interview
     - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
-- [ ] [Blog](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
+- [ ] [Blog - Get that job at Google](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
 
 ## What is it?
 
